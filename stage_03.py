@@ -6,4 +6,4 @@ with open("artifact.txt","w") as f:
     
     
 print(text)
-print("it is a end of stage 3")
+print("it is a end of stage 3")https://github.com/Shubham-Rajput1/1_dvc/blob/main/README.md
